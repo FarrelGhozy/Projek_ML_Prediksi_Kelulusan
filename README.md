@@ -57,14 +57,3 @@ Model yang digunakan adalah **Decision Tree Classifier**.
 3.  **Modeling:** Melatih model dengan data training.
 4.  **Evaluasi:** Mengukur performa menggunakan Accuracy, Confusion Matrix, dan Classification Report.
 
----
-
-## 📂 Struktur Proyek
-
-```bash
-├── data/
-│   └── student-mat.csv      # Dataset mentah
-├── notebooks/
-│   └── UAS_ML_Analysis.ipynb # Kode analisis utama (Jupyter Notebook)
-├── README.md                # Dokumentasi proyek
-└── requirements.txt         # Library yang dibutuhkan
