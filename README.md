@@ -24,7 +24,7 @@ Proyek ini adalah **Final Project Mata Kuliah Pembelajaran Mesin** yang bertujua
 Tugas Pembauatn model Machine learning untuk projek akhir UAS, dengan bidang yang saya ambil adalah bbidang pendidikan. 
 
 **Tujuan:**
-Membangun model Machine Learning yang dapat mendeteksi siswa berisiko **"Gagal"** lebih awal dengan menganalisis faktor latar belakang (seperti waktu belajar, absensi, dan nilai awal), sehingga pihak sekolah dapat memberikan bimbingan khusus sebelum periode ujian berakhir.
+Membangun model Machine Learning yang dapat mendeteksi siswa berisiko **"Gagal"** lebih awal dengan menganalisis faktor latar belakang (seperti waktu belajar, absensi, dan nilai awal), sehingga pihak sekolah dapat memberikan bimbingan khusus sebelum periode ujian berakhir. Atau bisa juga di jadikan sebagai predisi patokan kemampuan siswa untuk tahun depanya.
 
 ---
 
@@ -56,6 +56,17 @@ Model yang digunakan adalah **Decision Tree Classifier**.
 2.  **Feature Engineering:** Membuat kolom target `Status_Kelulusan` (1 jika G3 $\ge$ 10, 0 jika < 10).
 3.  **Modeling:** Melatih model dengan data training.
 4.  **Evaluasi:** Mengukur performa menggunakan Accuracy, Confusion Matrix, dan Classification Report.
+
+---
+# Cara menjalankan 
+
+```bash 
+
+git clone https://github.com/FarrelGhozy/Projek_ML_Prediksi_Kelulusan.git 
+
+pip install pandas numpy scikit-learn matplotlib
+
+```
 
 ---
 
