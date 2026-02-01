@@ -21,7 +21,7 @@ Proyek ini adalah **Final Project Mata Kuliah Pembelajaran Mesin** yang bertujua
 ---
 
 ## 🧐 Latar Belakang Masalah
-Sekolah sering kali terlambat menyadari siswa yang berisiko gagal lulus. Biasanya, intervensi baru dilakukan setelah nilai akhir keluar, di mana hal tersebut sudah terlambat.
+Tugas Pembauatn model Machine learning untuk projek akhir UAS, dengan bidang yang saya ambil adalah bbidang pendidikan. 
 
 **Tujuan:**
 Membangun model Machine Learning yang dapat mendeteksi siswa berisiko **"Gagal"** lebih awal dengan menganalisis faktor latar belakang (seperti waktu belajar, absensi, dan nilai awal), sehingga pihak sekolah dapat memberikan bimbingan khusus sebelum periode ujian berakhir.
