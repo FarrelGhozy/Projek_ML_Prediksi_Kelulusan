@@ -57,3 +57,15 @@ Model yang digunakan adalah **Decision Tree Classifier**.
 3.  **Modeling:** Melatih model dengan data training.
 4.  **Evaluasi:** Mengukur performa menggunakan Accuracy, Confusion Matrix, dan Classification Report.
 
+---
+
+# Data Pembuat 
+
+- Nama  : Farrel Ghzoy A
+- NIM   : 452024611053
+- Kelas : TI4 A1 
+
+
+
+
+
